@@ -1,29 +1,17 @@
 # supermall
 
-## Project setup
-```
-npm install
-```
+  
+<kbd>摆摊日记</kbd>
+ 
+*第一天* 
+>   创建项目目录结构  
+>   tabBar、tabBarItem、MainTabBar组件  
+>   注册router  route/index.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
+### git command line
 ```
-npm run test
+git add .
+git push -u origin master
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
