@@ -31,14 +31,16 @@ export default {
   },
   methods: {
     itemClick() {
+      console.log(this.$router);
       this.$router.replace(this.link);
+      console.log(this.$route.path);
     },
   },
 };
 </script>
 
 <style scoped>
-#tab-bar-item {
+  #tab-bar-item {
     flex: 1;
   }
 

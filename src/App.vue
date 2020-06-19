@@ -1,7 +1,10 @@
 <template>
   <div id="app">
-    <h1>hhh</h1>
+
+    <router-view></router-view>
+
     <MainTabBar/>
+
   </div>
 </template>
 
@@ -16,5 +19,6 @@ export default {
 </script>
 
 <style>
+  @import "assets/css/base.css";
 
 </style>
