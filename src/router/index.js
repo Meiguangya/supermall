@@ -4,7 +4,7 @@ import VueRouter from 'vue-router';
 Vue.use(VueRouter);
 
 
-const Home = () => import('views/home/home')
+const Home = () => import('views/home/Home')
 import Cart from 'views/cart/Cart';
 
 

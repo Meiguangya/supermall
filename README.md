@@ -18,6 +18,12 @@ const Home = () => {return import('views/home/home')}
 ```
 > 如果剪头函数要加大括号，必须return一个值
 
+*第三天*
+> 添加axios
+> 添加轮播图插件
+> 添加 element-ui 
+> 添加webstorm的webpack配置文件 修改别名方式
+
 
 
 
