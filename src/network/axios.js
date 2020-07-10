@@ -6,7 +6,8 @@ export default function axios(option) {
   return new Promise((resolve, reject) => {
     //1.create axios instance
     const instance = originAxios.create({
-      baseURL: 'http://123.207.32.32:8000',
+      // baseURL: 'http://123.207.32.32:8000',
+      baseURL: 'http://localhost:8081',
       timeout: 5000
     });
 

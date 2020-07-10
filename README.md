@@ -24,6 +24,10 @@ const Home = () => {return import('views/home/home')}
 > 添加 element-ui 
 > 添加webstorm的webpack配置文件 修改别名方式
 
+*第四天*
+> 添加mock数据
+> 写入静态测试数据
+
 
 
 
